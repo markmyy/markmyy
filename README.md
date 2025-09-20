@@ -22,8 +22,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ดูค่า PM2.5 ปัจจุบัน ณ ตำแหน่งที่อยู่
 * ดูเกณฑ์ระดับความอันตรายของ PM2.5
   
-[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Home.png" width="400"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/Home.png)
-[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Map.png" width="400"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/Map.png)
-[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/News.png" width="400"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/News.png)
-[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/chatbot.png" width="400"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/chatbot.png)
+[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Home.png" width="100"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/Home.png)
+[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Map.png" width="100"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/Map.png)
+[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/News.png" width="100"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/News.png)
+[<img src="https://raw.githubusercontent.com/markmyy/markmyy/main/chatbot.png" width="100"/>](https://raw.githubusercontent.com/markmyy/markmyy/main/chatbot.png)
 
