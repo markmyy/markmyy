@@ -22,6 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ดูค่า PM2.5 ปัจจุบัน ณ ตำแหน่งที่อยู่
 * ดูเกณฑ์ระดับความอันตรายของ PM2.5
   
-[![รูปที่1](https://github.com/markmyy/markmyy/blob/main/Home.png)](https://github.com/markmyy/markmyy/blob/main/Home.png)
-[![รูปที่2](https://github.com/markmyy/markmyy/blob/main/Map.png)](https://github.com/markmyy/markmyy/blob/main/Map.png)
-![รูปที่3](https://github.com/markmyy/markmyy/blob/main/News.png) ![รูปที่4](https://github.com/markmyy/markmyy/blob/main/chatbot.png)
+![รูปที่1](https://github.com/markmyy/markmyy/blob/main/Home.png)
+![รูปที่2](https://github.com/markmyy/markmyy/blob/main/Map.png)
+![รูปที่3](https://github.com/markmyy/markmyy/blob/main/News.png) 
+![รูปที่4](https://github.com/markmyy/markmyy/blob/main/chatbot.png)
