@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 # :iphone: PM2.5 Forecast Mobile Application
-แอปพลิเคชั่นที่พยากรณ์ปริมาณ PM2.5 ซึ่งจะทำให้ผู้ใช้ได้รู้ว่าตำแหน่งหรือเขตไหนมีค่าPM2.5ที่มีประมาณมาก โดยใช้เทคนิคการเรียนรู้เชิงลึกในการพยากรณ์ค่า ผมมีส่วนร่วมในการออกแบบ Ux/Ui
+แอปพลิเคชั่นที่พยากรณ์ปริมาณ PM2.5 ซึ่งจะทำให้ผู้ใช้ได้รู้ว่าตำแหน่งหรือเขตไหนมีค่า PM2.5 ที่มีปริมาณมาก โดยใช้เทคนิคการเรียนรู้เชิงลึกในการพยากรณ์ค่า ผมมีส่วนร่วมในการออกแบบ Ux/Ui
 
 <img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Home.png" width="200"/> <img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Alert.png" width="200"/> <img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Info.png" width="200"/> <img src="https://raw.githubusercontent.com/markmyy/markmyy/main/Dashboard.png" width="200"/>
 
